@@ -1,1 +1,1 @@
-# Image-Processing-and-Pattern-Recognition
+## Image Processing and Pattern Recognition
